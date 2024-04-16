@@ -1,6 +1,6 @@
 {
-  "name": "project06-word-counter-ak",
-  "version": "1.0.0",
+  "name": "project06-word-counter--ak",
+  "version": "1.0.1",
   "description": "this is word counter project",
   "main": "index.js",
   "type":"module",
